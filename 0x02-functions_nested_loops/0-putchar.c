@@ -10,7 +10,7 @@ int main(void)
 {
 	_putchar('_');
 	_putchar('p');
-	_putchat('u');
+	_putchar('u');
 	_putchar('t');
         _putchar('c');
 	_putchar('h');
@@ -20,5 +20,3 @@ int main(void)
 	return (0);
 
 }
-
-
